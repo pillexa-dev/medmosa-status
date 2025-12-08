@@ -8,6 +8,7 @@ sites:
     url: https://staging.medmosa.com
 
 status-website:
+  baseUrl: /
   cname: status.medmosa.com
   logoUrl: https://medmosa.com/favicon.ico
   name: Medmosa Status
