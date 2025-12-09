@@ -21,3 +21,8 @@ status-website:
 
 assignees:
   - PrinceMahdi
+
+notifications:
+  - type: slack
+    channel: C0A2G7BJG2Z
+    webhookUrl: $SLACK_WEBHOOK_URL
