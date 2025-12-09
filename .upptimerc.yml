@@ -17,7 +17,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-  customHeadHtml: "<style>footer { display: none !important; }</style>"
+  customHeadHtml: "<style>footer, .github-link, a[href*='github.com'][class*='btn'], .btn-github, article a[href*='github'], .subscribe-link { display: none !important; }</style>"
 
 assignees:
   - PrinceMahdi
