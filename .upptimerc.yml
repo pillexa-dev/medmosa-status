@@ -9,7 +9,6 @@ sites:
 
 status-website:
   publish: true
-  baseUrl: /
   cname: status.medmosa.com
   logoUrl: https://medmosa.com/favicon.ico
   name: Medmosa Status
