@@ -17,8 +17,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  customHeadHtml: "<style>footer { display: none !important; }</style>"
 
 assignees:
   - PrinceMahdi
