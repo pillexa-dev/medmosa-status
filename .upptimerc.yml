@@ -25,4 +25,4 @@ assignees:
 notifications:
   - type: slack
     channel: C0A2G7BJG2Z
-    webhookUrl: $NOTIFICATION_SLACK_WEBHOOK
+    webhookUrl: $NOTIFICATION_SLACK_WEBHOOK_URL
