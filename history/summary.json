@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 147,
+      "2025-12-10": 185,
       "2025-12-09": 1440,
       "2025-12-08": 76
     }
@@ -26,19 +26,19 @@
     "url": "https://staging.medmosa.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging.medmosa.com.ico",
     "slug": "medmosa-staging",
-    "status": "down",
-    "uptime": "2.66%",
+    "status": "up",
+    "uptime": "2.60%",
     "uptimeDay": "3.07%",
-    "uptimeWeek": "2.66%",
-    "uptimeMonth": "2.66%",
-    "uptimeYear": "2.66%",
-    "time": 267,
-    "timeDay": 261,
-    "timeWeek": 267,
-    "timeMonth": 267,
-    "timeYear": 267,
+    "uptimeWeek": "2.60%",
+    "uptimeMonth": "2.60%",
+    "uptimeYear": "2.60%",
+    "time": 263,
+    "timeDay": 254,
+    "timeWeek": 263,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-12-10": 102,
+      "2025-12-10": 140,
       "2025-12-09": 1440,
       "2025-12-08": 76
     }
