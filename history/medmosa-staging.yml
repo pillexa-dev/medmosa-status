@@ -1,7 +1,7 @@
 url: https://staging.medmosa.com
-status: up
-code: 200
-responseTime: 1213
-lastUpdated: 2026-04-06T23:10:13.738Z
+status: down
+code: 503
+responseTime: 838
+lastUpdated: 2026-04-07T15:21:26.047Z
 startTime: 2025-12-08T22:43:43.104Z
 generator: Upptime <https://github.com/upptime/upptime>
